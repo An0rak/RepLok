@@ -1,3 +1,3 @@
 # RepLok
-Machine Learning Framework
+Machine Learning Framework in C++
     by REPIC & LOKNICA
